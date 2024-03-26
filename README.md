@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- Majoring in Molecular Cell Biology (Molecular Therapeutics Track 2) @ UC Berkeley.
-- Enjoys casual programming in bash or python as a hobby.
-- Running Fedora Workstation on ThinkPad P16s / ThinkPad Yoga 370
+- 🤔 Majoring in Molecular Cell Biology (Molecular Therapeutics Track 2) @ UC Berkeley.
+- 🌱 Enjoys casual programming in bash or python as a hobby.
+- 🔭 Also enjoys discovering and self-hosting various projects through Docker.
+- ⚡ Running Fedora Workstation on a ThinkPad P16s / ThinkPad Yoga 370.
 <!--
 **kittyjosh111/kittyjosh111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
