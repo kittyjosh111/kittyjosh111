@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🤔 Majoring in Molecular Cell Biology (Molecular Therapeutics Track 2) @ UC Berkeley.
+- 🤔 Majored in Molecular Cell Biology (Molecular Therapeutics Track 2) and Minored in Data Science @ UC Berkeley.
 - 🌱 Enjoys casual programming in bash or python as a hobby.
 - 🔭 Also enjoys discovering and self-hosting various projects through Docker.
-- ⚡ Running Fedora Workstation + EndeavourOS on a ThinkPad P16s / X1 Yoga 3rd Gen.
+- 💬 Also going down the rabbit hole with Hi-Fi. Sporting a Moondrop Dawn Pro -> Fiio Gigas 1 -> Tanchjim Nora.
+- ⚡ Running Fedora Workstation on a ThinkPad X1 2-in-1 Gen 10.
 <!--
 **kittyjosh111/kittyjosh111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
